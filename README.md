@@ -1,15 +1,15 @@
 # Hi, I'm Natahan 👋
 
-Security-focused developer building a self-hosted **Security Operations Center (SOC)** platform — endpoint telemetry, threat detection, and ML-driven analytics, no cloud required.
+**Cybersecurity enthusiast** focused on threat detection, endpoint security, and building security tooling.
 
 ## 🛠️ Tech Stack
 
-**Python** · **FastAPI** · **React** · **PostgreSQL** · **Docker**
+**Python** · **FastAPI** · **PostgreSQL** · **React** · **Docker**
 
 ## 🚀 Current Project
 
 ### [BARAQ](https://github.com/natahanjr/BARAQ)
-Open-source SOC platform: agent-based endpoint telemetry, MITRE ATT&CK mapping, hybrid rule-based + ML detection, real-time dashboards, and multi-tenant support.
+Self-hosted open-source SOC platform: agent-based endpoint telemetry, MITRE ATT&CK mapping, hybrid rule-based + ML threat detection, real-time dashboards, and multi-tenant support.
 
 ## 📫 Contact
 
