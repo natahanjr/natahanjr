@@ -1,6 +1,6 @@
 # Hi, I'm Natahan 👋
 
-**Cybersecurity enthusiast** focused on threat detection, endpoint security, and building security tooling.
+Cybersecurity Professional focused on **Security Operations, Detection Engineering, Threat Intelligence, and AI-driven Security Analytics**. Building open-source security platforms and practical cyber defense solutions.
 
 ## 🛠️ Tech Stack
 
