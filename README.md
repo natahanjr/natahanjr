@@ -13,11 +13,6 @@ Cybersecurity Professional focused on **Security Operations, Detection Engineeri
 
 ## 📊 GitHub Metrics
 
-<sub>Infographics generated with [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
-
-[<img align="left" width="390" alt="General" src="general.svg">](#)
-[<img align="right" width="390" alt="Achievements" src="achievements.svg">](#)
-
-<picture>
-  <img width="100%" height="1" alt="">
-</picture>
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
