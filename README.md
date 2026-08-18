@@ -11,8 +11,6 @@ Cybersecurity Professional focused on **Security Operations, Detection Engineeri
 - GitHub: [@natahanjr](https://github.com/natahanjr)
 - Security: [securitybaraqsoc@gmail.com](mailto:securitybaraqsoc@gmail.com)
 
-## 📊 GitHub Metrics
-
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
