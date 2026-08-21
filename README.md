@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=SECURITY+OPERATIONS+%7C+DETECTION+ENGINEERING+%7C+THREAT+INTELLIGENCE+%7C+AI+DRIVEN+SECURITY+ANALYTICS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=SECURITY+OPERATIONS+%7C+DETECTION+ENGINEERING+%7C+THREAT+INTELLIGENCE+%7C+AI+DRIVEN+SECURITY+ANALYTICS" alt="Natahan — Cybersecurity" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=SECURITY+OPERATIONS+%7C+DETECTION+ENGINEERING+%7C+AI+SECURITY">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=SECURITY+OPERATIONS+%7C+DETECTION+ENGINEERING+%7C+AI+SECURITY" alt="Natahan — Cybersecurity" />
   </a>
 </p>
 
