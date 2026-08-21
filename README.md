@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PLACEHOLDER_BANNER_URL" alt="Natahan — Banner" width="100%" />
+  <img src="https://cdn.corenexis.com/f/djZL1dyyZwu.png" alt="Natahan — Banner" width="100%" />
 </p>
 
 <p align="center">
