@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=800&pause=400&repeat=true&color=1E90FF&center=true&vCenter=true&width=400&height=60&lines=AI+SECURITY">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=800&pause=400&repeat=true&color=1E90FF&center=true&vCenter=true&width=400&height=60&lines=AI+SECURITY" alt="AI Security" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=500&repeat=true&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=DETECTION+ENGINEERING%0AAI+SECURITY">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=500&repeat=true&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=DETECTION+ENGINEERING%0AAI+SECURITY" alt="Detection Engineering | AI Security" />
   </a>
 </p>
 
