@@ -12,8 +12,6 @@
   <img src="https://github.com/natahanjr/natahanjr/raw/main/github-metrics.svg" alt="GitHub Metrics" width="800" />
 </p>
 
-<h1 align="center">Natahan</h1>
-
 <p align="center">
   <strong>Cybersecurity Professional</strong>
 </p>
@@ -24,13 +22,15 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <p align="center">
-  <strong>Python</strong> · <strong>FastAPI</strong> · <strong>PostgreSQL</strong> · <strong>React</strong> · <strong>Docker</strong>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="24" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="24" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="24" />
 </p>
 
-## 📫 Contact
+---
 
 <p align="center">
   <a href="https://github.com/natahanjr">GitHub</a> ·
