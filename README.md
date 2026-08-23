@@ -40,8 +40,3 @@
   <a href="mailto:securitybaraqsoc@gmail.com">Security Email</a>
 </p>
 
----
-
-<p align="center">
-  <sub>AI-assisted engineering in collaboration with <a href="https://claude.ai">Claude</a> (Anthropic) — code generation, review & security analysis.</sub>
-</p>
