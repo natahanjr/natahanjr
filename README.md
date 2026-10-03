@@ -14,8 +14,3 @@ Based in Addis Ababa, Ethiopia.
 ## Focus
 
 Detection engineering, threat intelligence pipelines, explainable machine learning, security automation.
-
-## Contact
-
-- Email: securitybaraqsoc@gmail.com
-- Commercial licensing: razforge@proton.me
