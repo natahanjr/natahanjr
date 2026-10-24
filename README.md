@@ -1,7 +1,5 @@
 # Natahan
 
-Security Operations · Detection Engineering · Threat Intelligence
-
 Building open-source security platforms and ML-assisted defense systems.
 Based in Addis Ababa, Ethiopia.
 
